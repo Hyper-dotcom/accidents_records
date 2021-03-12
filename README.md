@@ -1,3 +1,7 @@
+<p>
+	accidents_records is a project for faculty. I have made a simple CRUD application using CodeIgniter MVC. I used stisla template.
+	The main focus of this project was the interaction with MSSQL database. I had to write the queries manually. 
+</p>
 <p align="center">
   <a href="https://getstisla.com">
     <img src="https://avatars2.githubusercontent.com/u/45754626?s=75&v=4" alt="Stisla logo" width="75" height="75">
